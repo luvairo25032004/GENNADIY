@@ -1,0 +1,6 @@
+vk_api
+asyncio 
+aiohttp
+websockets
+chardet
+time
